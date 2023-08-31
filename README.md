@@ -1,5 +1,3 @@
-<!-- ここから https://reffect.co.jp/react/next-js-13/#dynamic-routes-%E3%81%AE%E8%A8%AD%E5%AE%9A-1 -->
-
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
